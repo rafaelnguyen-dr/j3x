@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - rafaelnguyen-dr/j3x
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.51.79.174.24.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
